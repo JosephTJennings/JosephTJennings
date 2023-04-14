@@ -1,6 +1,4 @@
 # Hope you enjoy!
-My name is Joseph, I am a software engineer from the United States! Take a look through my work :)
-
 
 ## 🔧 Technologies & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -9,15 +7,19 @@ My name is Joseph, I am a software engineer from the United States! Take a look 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ## &#x1f4c8; My GitHub Stats
 <a href="https://github.com/JosephTJennings/JosephTJennings">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephTJennings&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephTJennings&theme=dracula&langs_count=3" />
 </a>
-
-<a href="https://github.com/JosephTJennings/MarketBuzz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JosephTJennings&repo=MarketBuzz&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JosephTJennings&theme=dracula&show_icons=true" alt="Joseph's GitHub Stats" />
 </a>
 <a href="https://github.com/JosephTJennings/Rogue-Pokemon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JosephTJennings&repo=Rogue-Pokemon&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JosephTJennings&repo=Rogue-Pokemon&theme=dracula" />
+</a>
+<a href="https://github.com/JosephTJennings/MarketBuzz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JosephTJennings&repo=MarketBuzz&theme=dracula" />
 </a>
