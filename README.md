@@ -14,7 +14,7 @@
 <a href="https://github.com/JosephTJennings/JosephTJennings">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephTJennings&theme=dracula&langs_count=3" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/JosephTJennings/JosephTJennings">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JosephTJennings&theme=dracula&show_icons=true" alt="Joseph's GitHub Stats" />
 </a>
 <a href="https://github.com/JosephTJennings/Rogue-Pokemon">
