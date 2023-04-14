@@ -11,10 +11,10 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ## &#x1f4c8; My GitHub Stats
-<a href="https://github.com/JosephTJennings/JosephTJennings">
+<a href="https://github.com/JosephTJennings">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephTJennings&theme=dracula&langs_count=3" />
 </a>
-<a href="https://github.com/JosephTJennings/JosephTJennings">
+<a href="https://github.com/JosephTJennings">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JosephTJennings&theme=dracula&show_icons=true" alt="Joseph's GitHub Stats" />
 </a>
 <a href="https://github.com/JosephTJennings/Rogue-Pokemon">
