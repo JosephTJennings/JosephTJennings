@@ -12,14 +12,15 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ## &#x1f4c8; My GitHub Stats
 <a href="https://github.com/JosephTJennings">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephTJennings&theme=dracula&langs_count=5&layout=compact" />
+  <img align="center" src="https://github-readme-stats-r4es-git-master-josephtjennings.vercel.app
+/api/top-langs/?username=JosephTJennings&theme=dracula&langs_count=5&layout=compact" />
 </a>
 <a href="https://github.com/JosephTJennings">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JosephTJennings&theme=dracula&show_icons=true" alt="Joseph's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-r4es.vercel.app/api?username=JosephTJennings&theme=dracula&show_icons=true" alt="Joseph's GitHub Stats" />
 </a>
 <a href="https://github.com/JosephTJennings/Rogue-Pokemon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JosephTJennings&repo=Rogue-Pokemon&theme=dracula" />
+  <img align="center" src="https://github-readme-stats-r4es.vercel.app/api/pin/?username=JosephTJennings&repo=Rogue-Pokemon&theme=dracula" />
 </a>
 <a href="https://github.com/JosephTJennings/MarketBuzz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JosephTJennings&repo=MarketBuzz&theme=dracula" />
+  <img align="center" src="https://github-readme-stats-r4es.vercel.app/api/pin/?username=JosephTJennings&repo=MarketBuzz&theme=dracula" />
 </a>
